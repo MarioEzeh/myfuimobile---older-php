@@ -1,0 +1,1 @@
+<?php  chmod('search-list.php', 0777 ) ; ?>

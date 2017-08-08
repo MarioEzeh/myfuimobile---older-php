@@ -1,0 +1,9 @@
+.ui-li > .ui-btn-inner { font-size: 3em !important; }
+.myButton {
+    background:url(/images/searchbutton.png) no-repeat;
+    cursor:pointer;
+    width: 425px;
+    height: 83px;
+    border: none;
+}
+
